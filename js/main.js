@@ -6,7 +6,6 @@ function tablaDeMultiplicar(numero) {
     return resultado;
 }
 
-// Ejemplo de uso
 console.log(tablaDeMultiplicar(6));
 
 
@@ -20,5 +19,4 @@ function tablaDeMultiplicar(numero) {
     return resultado;
 }
 
-// Ejemplo de uso
 console.log(tablaDeMultiplicar(5));
